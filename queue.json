@@ -1,0 +1,50 @@
+{
+  "about": "Daily YouTube Shorts queue for Final Clearance. A scheduled task uploads each clip through YouTube Studio on the day before or the morning of its publish time, schedules it, and records the video ID here. Times are US Eastern. Weekdays publish at 18:00, weekends at 12:00.",
+  "channel": "https://studio.youtube.com/channel/UCmxE6GhpUfAbQF5BBCTP-xw",
+  "raw_base": "https://raw.githubusercontent.com/manojmeets-tech/final-clearance-clips/main/clips/",
+  "items": [
+    {
+      "file": "01-plane-on-the-runway.mp4",
+      "publish": "2026-11-13T18:00:00-05:00",
+      "status": "pending",
+      "title": "This jet was cleared to land. There's still a plane on the runway. Would you have caught it? ✈️",
+      "description": "A jet on final, cleared to land, and a plane still lined up on the runway. You're the tower: send it around. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #airtrafficcontrol #aviation #avgeek #iosgames #indiegame"
+    },
+    {
+      "file": "02-bird-strike.mp4",
+      "publish": "2026-11-14T12:00:00-05:00",
+      "status": "pending",
+      "replaces": "R7H0M4KNQg8",
+      "title": "Both engines gone, 30 seconds to decide. Which runway would you give them? ✈️",
+      "description": "A bird strike on departure. Both engines gone. You're the tower: roll the fire trucks and bring them home. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#birdstrike #atc #aviation #avgeek #pilot #iosgames"
+    },
+    {
+      "file": "05-ignore-the-radio.mp4",
+      "publish": "2026-11-15T12:00:00-05:00",
+      "status": "pending",
+      "title": "I stopped answering the radio for two minutes. Think you'd last longer? 📻",
+      "description": "Rank 4, Harbor City. Arrivals lining up on the arcs, and then nobody answers the radio. Calls pile up. Safety drops. Comment your grade if you think you'd last longer. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #airtrafficcontrol #gaming #iosgames #indiedev"
+    },
+    {
+      "file": "03-rank-1-vs-rank-10.mp4",
+      "publish": "2026-11-16T18:00:00-05:00",
+      "status": "pending",
+      "title": "Day one vs. Chief Controller: from one runway to a four-runway hub ✈️",
+      "description": "Rank 1 is a rural strip with one runway and a few Cessnas. Rank 10 is a four-runway hub where every taxi route is yours. Every rank teaches a real ATC skill. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #airtrafficcontroller #aviation #simulator #iosgames"
+    },
+    {
+      "file": "04-the-wind-just-flipped.mp4",
+      "publish": "2026-11-17T18:00:00-05:00",
+      "status": "pending",
+      "title": "The wind swung 180°. Real towers turn the whole airport around 🌬️",
+      "description": "The forecast says the wind is about to swing around. Now the runway has a tailwind, so the tower turns the whole airport around: every arrival and departure flips direction. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #aviation #avgeek #pilotlife #iosgames"
+    },
+    {
+      "file": "06-medical-emergency-POST-AFTER-1.1.mp4",
+      "publish": null,
+      "status": "hold: post only after version 1.1 is live on the App Store",
+      "title": "A student pilot's instructor collapses mid-flight. You talk them home. 🚑",
+      "description": "A student pilot. The instructor just collapsed. You're the only one who can talk them home: one heading at a time, calm and clear of traffic. Mission 2, Medical Emergency, new in Final Clearance 1.1.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #aviation #pilot #emergency #iosgames"
+    }
+  ]
+}
