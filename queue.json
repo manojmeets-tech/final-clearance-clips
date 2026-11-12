@@ -14,7 +14,8 @@
       "tiktok": {
         "status": "scheduled",
         "uploaded": "2026-11-12",
-        "needsBrandFix": true
+        "needsBrandFix": true,
+        "needsComment": true
       }
     },
     {
@@ -27,7 +28,8 @@
       "tiktok": {
         "status": "posted",
         "videoId": "7707312241116253454",
-        "note": "Posted by hand Nov 12; caption fixed the same day"
+        "note": "Posted by hand Nov 12; caption fixed the same day",
+        "commented": "2026-11-12"
       }
     },
     {
@@ -70,5 +72,6 @@
         "status": "pending"
       }
     }
-  ]
+  ],
+  "tiktokComment": "Get it: search \"Final Clearance\" on the App Store ✈️"
 }
