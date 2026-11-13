@@ -21,12 +21,16 @@
     {
       "file": "06-medical-emergency.mp4",
       "publish": "2026-11-14T12:00:00-05:00",
-      "status": "pending",
+      "status": "scheduled",
       "title": "A student pilot's instructor collapses mid-flight. You talk them home. 🚑",
       "description": "A student pilot. The instructor just collapsed. You're the only one who can talk them home: one heading at a time, calm and clear of traffic. Mission 2, Medical Emergency, new in Final Clearance 1.1.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #aviation #pilot #emergency #iosgames",
       "tiktok": {
-        "status": "pending"
-      }
+        "status": "scheduled",
+        "uploaded": "2026-11-13",
+        "needsComment": true
+      },
+      "videoId": "SqLY6KRg6iY",
+      "uploaded": "2026-11-13"
     },
     {
       "file": "02-bird-strike.mp4",
