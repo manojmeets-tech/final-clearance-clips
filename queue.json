@@ -14,8 +14,7 @@
       "tiktok": {
         "status": "scheduled",
         "uploaded": "2026-11-12",
-        "needsBrandFix": true,
-        "needsComment": true
+        "commented": "2026-11-14"
       }
     },
     {
@@ -27,7 +26,7 @@
       "tiktok": {
         "status": "scheduled",
         "uploaded": "2026-11-13",
-        "needsComment": true
+        "commented": "2026-11-14"
       },
       "videoId": "SqLY6KRg6iY",
       "uploaded": "2026-11-13"
@@ -35,7 +34,7 @@
     {
       "file": "02-bird-strike.mp4",
       "publish": "2026-11-15T12:00:00-05:00",
-      "status": "pending",
+      "status": "scheduled",
       "replaces": "R7H0M4KNQg8",
       "title": "Both engines gone, 30 seconds to decide. Which runway would you give them? ✈️",
       "description": "A bird strike on departure. Both engines gone. You're the tower: roll the fire trucks and bring them home. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#birdstrike #atc #aviation #avgeek #pilot #iosgames",
@@ -44,7 +43,9 @@
         "videoId": "7707312241116253454",
         "note": "Posted by hand Nov 12; caption fixed the same day",
         "commented": "2026-11-12"
-      }
+      },
+      "videoId": "MPgGn8VsF9U",
+      "uploaded": "2026-11-14"
     },
     {
       "file": "05-ignore-the-radio.mp4",
