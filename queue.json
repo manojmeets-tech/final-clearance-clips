@@ -69,19 +69,8 @@
       }
     },
     {
-      "file": "04-the-wind-just-flipped.mp4",
-      "publish": null,
-      "status": "pending",
-      "title": "The wind swung 180°. Real towers turn the whole airport around 🌬️",
-      "description": "The forecast says the wind is about to swing around. Now the runway has a tailwind, so the tower turns the whole airport around: every arrival and departure flips direction. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #aviation #avgeek #pilotlife #iosgames",
-      "tiktok": {
-        "status": "pending"
-      },
-      "note": "On hold: already on YouTube since Nov 12 (FHYFL7c0RB8, \"The wind just flipped\"). Held Nov 14 so it is not posted twice."
-    },
-    {
       "file": "07-wake-turbulence.mp4",
-      "publish": "2026-11-19T18:00:00-05:00",
+      "publish": "2026-11-18T18:00:00-05:00",
       "status": "pending",
       "title": "This jet has to wait behind an A380. Would you have held it back? ✈️",
       "description": "An A380 on final and an Airbus right behind it. Three miles is normally enough, but not behind an A380: its wake can roll a smaller jet. So this one waits for seven. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#a380 #waketurbulence #atc #aviation #avgeek #iosgames",
@@ -91,13 +80,26 @@
     },
     {
       "file": "08-taxi-gridlock.mp4",
-      "publish": "2026-11-20T18:00:00-05:00",
+      "publish": "2026-11-19T18:00:00-05:00",
       "status": "pending",
       "title": "Two jets, one taxiway, nose to nose. Would you have spotted the way out? ✈️",
       "description": "Two jets meet nose to nose on the only taxiway, and jets can't back up. Pull one into an empty gate and let the other one squeeze past. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #airport #aviation #avgeek #iosgames #indiegame",
       "tiktok": {
         "status": "pending"
       }
+    },
+    {
+      "file": "04-the-wind-just-flipped.mp4",
+      "publish": "2026-11-20T18:00:00-05:00",
+      "status": "posted",
+      "title": "The wind swung 180°. Real towers turn the whole airport around 🌬️",
+      "description": "The forecast says the wind is about to swing around. Now the runway has a tailwind, so the tower turns the whole airport around: every arrival and departure flips direction. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #aviation #avgeek #pilotlife #iosgames",
+      "tiktok": {
+        "status": "pending"
+      },
+      "note": "YouTube: already public since Nov 12 (FHYFL7c0RB8, \"The wind just flipped\"), so not re-uploaded. TikTok only: posts Nov 20 at 6 PM ET.",
+      "videoId": "FHYFL7c0RB8",
+      "uploaded": "2026-11-12"
     }
   ],
   "tiktokComment": "Get it on the App Store ✈️ https://apps.apple.com/app/id6821498143 (or search \"Final Clearance\")"
