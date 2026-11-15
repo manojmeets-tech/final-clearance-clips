@@ -65,12 +65,16 @@
     {
       "file": "05-ignore-the-radio.mp4",
       "publish": "2026-11-16T18:00:00-05:00",
-      "status": "pending",
+      "status": "scheduled",
       "title": "I stopped answering the radio for two minutes. Think you'd last longer? 📻",
       "description": "Rank 4, Harbor City. Arrivals lining up on the arcs, and then nobody answers the radio. Calls pile up. Safety drops. Comment your grade if you think you'd last longer. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #airtrafficcontrol #gaming #iosgames #indiedev",
       "tiktok": {
-        "status": "pending"
-      }
+        "status": "scheduled",
+        "uploaded": "2026-11-15",
+        "needsComment": true
+      },
+      "videoId": "LwiLX0ZBwZM",
+      "uploaded": "2026-11-15"
     },
     {
       "file": "03-rank-1-vs-rank-10.mp4",
