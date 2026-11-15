@@ -51,12 +51,14 @@
     {
       "file": "09-can-you-make-the-cut.mp4",
       "publish": "2026-11-15T18:00:00-05:00",
-      "status": "pending",
+      "status": "scheduled",
       "title": "9 in 100 make the cut. 2 make it all the way. Could you? ✈️",
       "description": "Not a game of hundreds of easy levels. Ten ranks, each harder than the last, and the real odds of becoming an air traffic controller: of every 100 people who apply to the FAA, about 9 get an offer and about 2 make it all the way (U.S. GAO report GAO-26-107320, 2026). Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #airtrafficcontrol #aviation #avgeek #iosgames",
       "tiktok": {
         "status": "pending"
-      }
+      },
+      "videoId": "_R1zvBBeniY",
+      "uploaded": "2026-11-15"
     },
     {
       "file": "05-ignore-the-radio.mp4",
