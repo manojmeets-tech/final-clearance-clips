@@ -79,12 +79,14 @@
     {
       "file": "03-rank-1-vs-rank-10.mp4",
       "publish": "2026-11-17T18:00:00-05:00",
-      "status": "pending",
+      "status": "scheduled",
       "title": "Day one vs. Chief Controller: from one runway to a four-runway hub ✈️",
       "description": "Rank 1 is a rural strip with one runway and a few Cessnas. Rank 10 is a four-runway hub where every taxi route is yours. Every rank teaches a real ATC skill. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #airtrafficcontroller #aviation #simulator #iosgames",
       "tiktok": {
         "status": "pending"
-      }
+      },
+      "videoId": "icUn-i2Rfy4",
+      "uploaded": "2026-11-16"
     },
     {
       "file": "07-wake-turbulence.mp4",
