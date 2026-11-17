@@ -93,12 +93,16 @@
     {
       "file": "07-wake-turbulence.mp4",
       "publish": "2026-11-18T18:00:00-05:00",
-      "status": "pending",
+      "status": "scheduled",
       "title": "This jet has to wait behind an A380. Would you have held it back? ✈️",
       "description": "An A380 on final and an Airbus right behind it. Three miles is normally enough, but not behind an A380: its wake can roll a smaller jet. So this one waits for seven. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#a380 #waketurbulence #atc #aviation #avgeek #iosgames",
       "tiktok": {
-        "status": "pending"
-      }
+        "status": "scheduled",
+        "uploaded": "2026-11-17",
+        "needsComment": true
+      },
+      "videoId": "St6XHA6GfVk",
+      "uploaded": "2026-11-17"
     },
     {
       "file": "08-taxi-gridlock.mp4",
