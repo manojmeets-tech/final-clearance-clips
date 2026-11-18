@@ -71,7 +71,7 @@
       "tiktok": {
         "status": "scheduled",
         "uploaded": "2026-11-15",
-        "needsComment": true
+        "commented": "2026-11-18"
       },
       "videoId": "LwiLX0ZBwZM",
       "uploaded": "2026-11-15"
@@ -85,7 +85,7 @@
       "tiktok": {
         "status": "scheduled",
         "uploaded": "2026-11-16",
-        "needsComment": true
+        "commented": "2026-11-18"
       },
       "videoId": "icUn-i2Rfy4",
       "uploaded": "2026-11-16"
@@ -107,12 +107,16 @@
     {
       "file": "08-taxi-gridlock.mp4",
       "publish": "2026-11-19T18:00:00-05:00",
-      "status": "pending",
+      "status": "scheduled",
       "title": "Two jets, one taxiway, nose to nose. Would you have spotted the way out? ✈️",
       "description": "Two jets meet nose to nose on the only taxiway, and jets can't back up. Pull one into an empty gate and let the other one squeeze past. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #airport #aviation #avgeek #iosgames #indiegame",
       "tiktok": {
-        "status": "pending"
-      }
+        "status": "scheduled",
+        "uploaded": "2026-11-18",
+        "needsComment": true
+      },
+      "videoId": "YYEQ7VBYdmI",
+      "uploaded": "2026-11-18"
     },
     {
       "file": "04-the-wind-just-flipped.mp4",
