@@ -99,7 +99,7 @@
       "tiktok": {
         "status": "scheduled",
         "uploaded": "2026-11-17",
-        "needsComment": true
+        "commented": "2026-11-19"
       },
       "videoId": "St6XHA6GfVk",
       "uploaded": "2026-11-17"
@@ -125,7 +125,9 @@
       "title": "The wind swung 180°. Real towers turn the whole airport around 🌬️",
       "description": "The forecast says the wind is about to swing around. Now the runway has a tailwind, so the tower turns the whole airport around: every arrival and departure flips direction. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #aviation #avgeek #pilotlife #iosgames",
       "tiktok": {
-        "status": "pending"
+        "status": "scheduled",
+        "uploaded": "2026-11-19",
+        "needsComment": true
       },
       "note": "YouTube: already public since Nov 12 (FHYFL7c0RB8, \"The wind just flipped\"), so not re-uploaded. TikTok only: posts Nov 20 at 6 PM ET.",
       "videoId": "FHYFL7c0RB8",
