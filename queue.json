@@ -174,19 +174,20 @@
   {
    "file": "12-who-goes-first.mp4",
    "publish": "2026-11-26T18:00:00-05:00",
-   "status": "scheduled",
+   "status": "posted",
    "title": "Three planes, one runway. Who goes first? ✈️",
    "description": "A slow Cessna is first in line, with a 737 at more than twice its speed stuck behind it. Put the fast one first and everyone lands sooner. Get the order wrong and the whole line ends up holding. Real gameplay from Final Clearance, an air traffic control game for iPhone and iPad.\n\nSearch \"Final Clearance\" on the App Store.\n\n#atc #airtrafficcontrol #aviation #avgeek #iosgames",
    "videoId": "2ONJbq6E9ss",
    "uploaded": "2026-11-23",
    "tiktok": {
-    "status": "scheduled",
+    "status": "posted",
     "uploaded": "2026-11-23",
-    "videoId": "7711319930511150349"
+    "videoId": "7711319930511150349",
+    "commented": "2026-11-26"
    },
    "instagram": {
-    "status": "pending",
-    "note": "Instagram web can't schedule; post on Thu Nov 26 around 6 PM ET"
+    "status": "posted",
+    "uploaded": "2026-11-26"
    }
   }
  ],
